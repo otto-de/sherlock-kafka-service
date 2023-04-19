@@ -5,7 +5,7 @@ go 1.18
 require (
 	cloud.google.com/go/logging v1.7.0
 	github.com/confluentinc/confluent-kafka-go/v2 v2.1.0
-	github.com/otto-de/sherlock-microservice v0.0.23
+	github.com/otto-de/sherlock-microservice v0.0.24
 )
 
 require (

@@ -1365,8 +1365,8 @@ github.com/opencontainers/selinux v1.8.2/go.mod h1:MUIHuUEvKB1wtJjQdOyYRgOnLD2xA
 github.com/opencontainers/selinux v1.10.0/go.mod h1:2i0OySw99QjzBBQByd1Gr9gSjvuho1lHsJxIJ3gGbJI=
 github.com/opencontainers/selinux v1.10.1/go.mod h1:2i0OySw99QjzBBQByd1Gr9gSjvuho1lHsJxIJ3gGbJI=
 github.com/opentracing/opentracing-go v1.1.0/go.mod h1:UkNAQd3GIcIGf0SeVgPpRdFStlNbqXla1AfSYxPUl2o=
-github.com/otto-de/sherlock-microservice v0.0.23 h1:n6Bu8/CvKMQV6XrCsxUIPjTcxMLuaOUCBDW0t5yQnaE=
-github.com/otto-de/sherlock-microservice v0.0.23/go.mod h1:QD12c92b3S0aDZaCrtaPshVS+rnM1ePaaxZNz624jeI=
+github.com/otto-de/sherlock-microservice v0.0.24 h1:eh9Wo5tZW1C2cUdT32eM+7prnzpYGoMfgLQUV2yqadk=
+github.com/otto-de/sherlock-microservice v0.0.24/go.mod h1:LxE/PmKBDkBGRw/c5u+u4MJ4fyJOZIVszbzUHDIB26s=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
 github.com/pelletier/go-toml v1.2.0/go.mod h1:5z9KED0ma1S8pY6P1sdut58dfprrGBbd/94hg7ilaic=
 github.com/pelletier/go-toml v1.8.1/go.mod h1:T2/BmBdy8dvIRq1a/8aqjN41wvWlN4lrapLU/GW4pbc=
